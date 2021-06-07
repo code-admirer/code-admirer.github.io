@@ -1,0 +1,55 @@
+html,body { 
+    background: url(startup.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+h2{
+    color: rgb(18, 231, 132);
+    font-family: 'Sigmar One', cursive;
+    /* width: 600px; */
+    width: 900px;
+    margin-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-right: 200px;
+    margin-bottom: 300px;
+    margin-top: 400px;
+    border-right: 0px;
+}
+hr{
+    border-color: rgb(255, 255, 255);
+    border-width: 1px ;
+}
+a { 
+    color: rgb(18, 231, 132);
+    font-family: 'Sigmar One', cursive;
+    margin-right: 500px;
+    border-left-width: 50px;
+    margin-bottom: 100px;
+    border-right-width: 50px;
+    margin-left: 400px;
+    padding-left: 50px;
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+    padding-top: 6px;
+    padding-right: 50px;
+    width: 350px
+
+}
+
+.btn{
+    border-color: magenta;
+    background-color: magenta;
+    font-weight: bold;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+.btn:hover {
+    background-color: tomato ;
+    border-color: tomato ;
+}
+
